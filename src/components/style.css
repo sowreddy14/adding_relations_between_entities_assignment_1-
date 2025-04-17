@@ -1,0 +1,27 @@
+img{
+    height: 200px;
+
+}
+
+.card{
+    background-color: gray;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 10px;
+    width: 45%;
+    
+}
+
+.content{
+    display: flex;
+    gap: 10px;
+    padding: 20px;
+    color: white;
+    
+}
+
+.Text>h2{
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
